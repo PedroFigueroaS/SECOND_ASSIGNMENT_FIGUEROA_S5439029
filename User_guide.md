@@ -1,5 +1,5 @@
 # ARP-ASSIGNMENT-2 Guide to Compile and run the project
-GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/FIRST_ASSIGNMENT_FIGUEROA_S5439029.git
+GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/SECOND_ASSIGNMENT_FIGUEROA_S5439029
 In particular, the repository is organized as follows:
 - The `src` folder contains the source code for the Master, Process A, and Process B.
 - The `include` folder contains all the data structures and methods used within the ncurses framework to build the two GUIs. 
